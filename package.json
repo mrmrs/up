@@ -36,6 +36,7 @@
   },
   "scripts": {
     "start": "gulp",
+    "uncss": "gulp uncss",
     "images": "gulp minify-images"
   },
   "contributors": [
